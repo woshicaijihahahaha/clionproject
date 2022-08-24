@@ -4,6 +4,7 @@
 ```
 git init  
 ```
+```
 git add . / git add -A
 ```
 git commit  "some messages"
