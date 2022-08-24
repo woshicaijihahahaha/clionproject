@@ -1,0 +1,3 @@
+/home/yy/CLionProjects/lambda/cmake-build-debug/CMakeFiles/lambda.dir
+/home/yy/CLionProjects/lambda/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yy/CLionProjects/lambda/cmake-build-debug/CMakeFiles/rebuild_cache.dir

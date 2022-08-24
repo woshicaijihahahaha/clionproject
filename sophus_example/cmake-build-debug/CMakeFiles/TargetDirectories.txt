@@ -1,0 +1,3 @@
+/home/yy/CLionProjects/sophus_example/cmake-build-debug/CMakeFiles/sophus_example.dir
+/home/yy/CLionProjects/sophus_example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yy/CLionProjects/sophus_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir

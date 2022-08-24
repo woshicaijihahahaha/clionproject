@@ -1,0 +1,5 @@
+/home/yy/下载/clion-2022.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/yy/下载/clion-2022.1.1/bin/ninja/linux/ninja -G Ninja -S /home/yy/CLionProjects/opencv_test -B /home/yy/CLionProjects/opencv_test/cmake-build-debug
+-- Found OpenCV: /usr/local (found version "3.4.11") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/yy/CLionProjects/opencv_test/cmake-build-debug

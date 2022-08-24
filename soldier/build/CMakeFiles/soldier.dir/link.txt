@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/soldier.dir/main.cpp.o  -o ../bin/soldier  -Wl,-rpath,/home/yy/CLionProjects/soldier/build/bin bin/libsoldier_shared.so 

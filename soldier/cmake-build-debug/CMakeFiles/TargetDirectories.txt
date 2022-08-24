@@ -1,0 +1,6 @@
+/home/yy/CLionProjects/soldier/cmake-build-debug/CMakeFiles/soldier.dir
+/home/yy/CLionProjects/soldier/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yy/CLionProjects/soldier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yy/CLionProjects/soldier/cmake-build-debug/src/CMakeFiles/soldier_shared.dir
+/home/yy/CLionProjects/soldier/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/yy/CLionProjects/soldier/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

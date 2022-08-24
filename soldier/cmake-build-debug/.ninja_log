@@ -1,0 +1,15 @@
+# ninja log v5
+1	149	1654764233570641958	CMakeFiles/soldier.dir/src/Gun.cpp.o	acd8527f9d492d99
+1	110	1654763724876922650	CMakeFiles/soldier.dir/src/Soldier.cpp.o	16d2f1bec6f207ec
+0	142	1654764240734888625	CMakeFiles/soldier.dir/main.cpp.o	f6432fb9a1c9cfa
+0	37	1654770844779288366	../bin/soldier	d09d117aea475798
+0	18	1655122555716258204	build.ninja	6cd56a1a5fd49bd1
+1	152	1654764914487959199	src/CMakeFiles/soldier_shared.dir/Gun.cpp.o	7d347e933bd82a6c
+0	38	1654765018894995378	soldier	adb3c5682a8c03d7
+152	185	1654764914519960135	src/libsoldier_shared.so	58164d657e539047
+1	136	1654764914471958731	src/CMakeFiles/soldier_shared.dir/Soldier.cpp.o	82ae8f5a3bb43408
+1	113	1655204981454793882	src/CMakeFiles/soldier_shared.dir/Soldier.cpp.o	68a1d239b6567fb3
+1	160	1655204981498794984	src/CMakeFiles/soldier_shared.dir/Gun.cpp.o	3c535838edef3b17
+1	175	1655204981514795385	CMakeFiles/soldier.dir/main.cpp.o	24e371b7361818d3
+160	194	1655204981534795886	src/libsoldier_shared.so	58164d657e539047
+194	231	1655204981570796788	../bin/soldier	e671155b2457c3f7
