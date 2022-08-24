@@ -1,3 +1,0 @@
-/home/yy/CLionProjects/yong因/cmake-build-debug/CMakeFiles/yong.dir
-/home/yy/CLionProjects/yong因/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yy/CLionProjects/yong因/cmake-build-debug/CMakeFiles/rebuild_cache.dir
